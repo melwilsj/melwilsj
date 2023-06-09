@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melwilsj
-- 👀 I’m interested in webdeb, embeddef
-- 🌱 I’m currently learning theoretical 
+- 👀 I’m interested in webdev,  embedded dev 
+- 🌱 I’m currently learning theoretical CS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
